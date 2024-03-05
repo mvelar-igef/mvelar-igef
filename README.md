@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Desarrollador web en el Instituto de Geofpísica de la UNAM
+Desarrollador web en el Instituto de Geofísica de la UNAM
